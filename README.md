@@ -1,8 +1,23 @@
 # Blockchain Technology Learning Resources
 
-A comprehensive guide to blockchain technology, smart contracts, and blockchain platforms.
+A comprehensive guide to blockchain technology, smart contracts, blockchain platforms, and emerging technologies.
 
 ## 📚 Core Areas
+
+### Security & Emerging Technologies
+- [Cybersecurity](./security/README.md)
+  - Web Application Security
+  - Data Protection
+  - Encryption Methods
+  - Security Auditing
+  - Threat Modeling
+
+- [Edge Computing & IoT](./edge-iot/README.md)
+  - Edge Computing Concepts
+  - IoT Architecture
+  - IoT Protocols
+  - Device Management
+  - Edge Security
 
 ### Blockchain Fundamentals
 - [Blockchain Basics](./fundamentals/README.md)
@@ -103,6 +118,8 @@ A comprehensive guide to blockchain technology, smart contracts, and blockchain 
    - For specialized development, explore DeFi, NFT, or Cross-chain sections
    - For infrastructure, explore Layer 2 and Analytics
    - For governance, explore DAO development
+   - For emerging tech, explore Edge Computing & IoT
+   - For security, focus on Cybersecurity fundamentals
 
 2. **Follow the Learning Path**
    - Begin with blockchain fundamentals
@@ -126,6 +143,8 @@ A comprehensive guide to blockchain technology, smart contracts, and blockchain 
 - Voting System
 - Multi-signature Wallet
 - Decentralized Storage
+- IoT Data Logger
+- Security Audit Tool
 
 ### Intermediate Projects
 - DeFi Protocol
@@ -133,6 +152,8 @@ A comprehensive guide to blockchain technology, smart contracts, and blockchain 
 - Cross-chain Bridge
 - DAO Implementation
 - Layer 2 Solution
+- Edge Computing Gateway
+- IoT Device Management System
 
 ### Advanced Projects
 - DeFi Yield Aggregator
@@ -140,6 +161,8 @@ A comprehensive guide to blockchain technology, smart contracts, and blockchain 
 - Cross-chain DEX
 - Governance System
 - Analytics Platform
+- Secure IoT Network
+- Edge Computing Platform
 
 ## 🤝 Contributing
 
@@ -169,6 +192,8 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 - Security Tools
 - Monitoring Solutions
 - Analytics Platforms
+- IoT Development Kits
+- Edge Computing Platforms
 
 ### Learning Platforms
 - Online Courses
